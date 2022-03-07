@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49038aa9.css",
+    "main.js": "/static/js/main.8d5d868e.js",
+    "static/js/787.9d3989ea.chunk.js": "/static/js/787.9d3989ea.chunk.js",
+    "static/media/weight_loss.gif": "/static/media/weight_loss.070c1a84dfcf1bd97ea1.gif",
+    "static/media/asthama.jpg": "/static/media/asthama.7f24915dedf0afe14cea.jpg",
+    "static/media/diabetes.jpg": "/static/media/diabetes.4c01a92c3db14f72b95c.jpg",
+    "static/media/relaxation.jpg": "/static/media/relaxation.7af6c8384d80923c5a66.jpg",
+    "static/media/dp.jpg": "/static/media/dp.a1e0317050b9c651b6ae.jpg",
+    "static/media/kids.jpg": "/static/media/kids.ed35db94e3cf3e223cf6.jpg",
+    "static/media/basics_of_yoga.jpg": "/static/media/basics_of_yoga.98dc018ba21893730b70.jpg",
+    "index.html": "/index.html",
+    "main.49038aa9.css.map": "/static/css/main.49038aa9.css.map",
+    "main.8d5d868e.js.map": "/static/js/main.8d5d868e.js.map",
+    "787.9d3989ea.chunk.js.map": "/static/js/787.9d3989ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49038aa9.css",
+    "static/js/main.8d5d868e.js"
+  ]
+}
